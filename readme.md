@@ -1,4 +1,4 @@
 Newslynx.org
 ===========
 
-The <newslynx.org> website.
+The [newslynx.org](http://newslynx.org) website.
