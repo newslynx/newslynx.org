@@ -1,3 +1,4 @@
-newslynx
+Newslynx.org
 ===========
-static site for contact info / surveys
+
+The <newslynx.org> website.
